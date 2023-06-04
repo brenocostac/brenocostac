@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Breno</h1>
 
 
-## 🧰 &nbsp;Languages and Tools
-<p align="left">
+<h2 align="center">🧰 &nbsp;Languages and Tools</h2>
+<p align="center">
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />      
     </a>
