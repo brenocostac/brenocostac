@@ -18,8 +18,9 @@
    <a>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
    </a>
+    <div align="center">
+      <a href="https://github.com/brencostac">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenocostac&layout=compact&langs_count=7&theme=radical"/>
+    </div>
 </p>
-<div align="center">
-  <a href="https://github.com/brencostac">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenocostac&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
